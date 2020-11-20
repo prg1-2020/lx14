@@ -1,0 +1,6 @@
+/.*
+!/.gitignore
+/project/
+/target/
+/*.class
+src/bench.scala
